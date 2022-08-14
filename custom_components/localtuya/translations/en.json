@@ -193,7 +193,11 @@
                     "min_value": "Minimum Value",
                     "max_value": "Maximum Value",
                     "step_size": "Minimum increment between numbers",
-                    "is_passive_entity": "Passive entity - requires integration to send initialisation value"
+                    "is_passive_entity": "Passive entity - requires integration to send initialisation value",
+                    "fan_mode_dp": "fan_mode_dp",
+                    "fan_mode_set": "fan_mode_set",
+                    "fan_swing_mode_dp": "fan_swing_mode_dp",
+                    "fan_swing_mode_set": "fan_swing_mode_set"
                 }
             }
         }
