@@ -103,6 +103,11 @@ CONF_HVAC_ACTION_SET = "hvac_action_set"
 CONF_ECO_DP = "eco_dp"
 CONF_ECO_VALUE = "eco_value"
 
+CONF_FAN_MODE_DP = "fan_mode_dp"
+CONF_FAN_MODE_SET = "fan_mode_set"
+CONF_FAN_SWING_MODE_DP = "fan_swing_mode_dp"
+CONF_FAN_SWING_MODE_SET = "fan_swing_mode_set"
+
 # vacuum
 CONF_POWERGO_DP = "powergo_dp"
 CONF_IDLE_STATUS_VALUE = "idle_status_value"
